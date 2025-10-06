@@ -13,3 +13,20 @@ Me chamo Leonardo Binder, tenho 21 anos e sou natural do São Paulo. Estou cursa
 - ✨ Sempre aprendendo e evoluindo como **Analista / Cientista de Dados**  
 
 ---
+
+## 🌍 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-binder/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:leonardo.binder@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ _“Dados são o novo petróleo, mas insights são a nova energia.”_ ✨
+</p>
