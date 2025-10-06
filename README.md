@@ -10,7 +10,15 @@ Me chamo Leonardo Binder, tenho 21 anos e sou natural do São Paulo. Estou cursa
 - 🎯 Transformo **dados em insights** para decisões estratégicas  
 - 📊 Apaixonado por **Análise Exploratória, Storytelling e Machine Learning**  
 - 💡 Explorando **Big Data, IA e automação de processos com dados**  
-- ✨ Sempre aprendendo e evoluindo como **Analista / Cientista de Dados**  
+- ✨ Sempre aprendendo e evoluindo como **Analista / Cientista de Dados**
+
+---
+
+## 📚 O que estou aprendendo agora
+- 🔹 Machine Learning Avançado (**XGBoost, Random Forest, LightGBM**)  
+- 🔹 Deep Learning (**TensorFlow & Keras**)  
+- 🔹 Deploy de Modelos (**FastAPI, Streamlit, Docker**)  
+- 🔹 Pipelines ETL e **Big Data (Airflow, Spark, Databricks)**  
 
 ---
 
